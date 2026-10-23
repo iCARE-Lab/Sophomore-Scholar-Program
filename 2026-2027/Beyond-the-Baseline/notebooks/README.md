@@ -32,8 +32,8 @@
 
 | Date | Module | Topics Covered | Status | Launch in Google Colab |
 | :--- | :--- | :--- | :--- | :--- |
-| **Oct 22, 2026** | **Module 4** | Clinical Prompt Engineering: Visual vs. Diagnostic Text Prompts in CLIP | ![In Progress](https://img.shields.io/badge/In_Progress-EA580C?style=flat-square) | *Link coming soon* |
-| **Oct 28, 2026** | **Module 5** | Domain-Specific Medical VLMs: Benchmarking **PLIP** & **BiomedCLIP** | ![Upcoming](https://img.shields.io/badge/Upcoming-64748B?style=flat-square) | *Link coming soon* |
+| **Oct 22, 2026** | **Module 4** | Clinical Prompt Engineering: Visual vs. Diagnostic Text Prompts in CLIP | ![Completed](https://img.shields.io/badge/Completed-16A34A?style=flat-square) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/Sophomore-Scholar-Program/blob/main/2026-2027/Beyond-the-Baseline/notebooks/Module_4_Clinical_Prompt_Engineering.ipynb) |
+| **Oct 28, 2026** | **Module 5** | Domain-Specific Medical VLMs: Benchmarking **PLIP** & **BiomedCLIP** | ![Completed](https://img.shields.io/badge/Completed-16A34A?style=flat-square) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/Sophomore-Scholar-Program/blob/main/2026-2027/Beyond-the-Baseline/notebooks/Module_5_Domain_Specific_Medical_VLMs.ipynb) |
 | **Nov 11, 2026** | **Module 6** | Prompt Ensembling & Few-Shot Adaptation on Histopathology & Dermatoscopy | ![Upcoming](https://img.shields.io/badge/Upcoming-64748B?style=flat-square) | *Link coming soon* |
 | **Nov 25, 2026** | **Module 7** | Explainable Medical AI (XAI): Grad-CAM (ResNet50) & Attention Heatmaps (VLM) | ![Upcoming](https://img.shields.io/badge/Upcoming-64748B?style=flat-square) | *Link coming soon* |
 | **Jan 20, 2027** | **Module 8** | Parameter-Efficient Fine-Tuning (LoRA) for Medical Vision-Language Models | ![Upcoming](https://img.shields.io/badge/Upcoming-64748B?style=flat-square) | *Link coming soon* |
