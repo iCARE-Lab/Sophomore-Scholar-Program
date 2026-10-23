@@ -11,7 +11,7 @@
 
 > [!IMPORTANT]
 > **How to Use These Notebooks**
-> 1. Click the **Open in Colab** button next to the module below.
+> 1. Click the **Open in Colab** button next to any module below.
 > 2. Sign in with your Google account.
 > 3. Save your own working copy using **File → Save a copy in Drive**.
 > 4. Click any code cell and press **Shift + Enter** (or the **▶** button) to run it.
@@ -32,12 +32,12 @@
 
 | Date | Module | Topics Covered | Status | Launch in Google Colab |
 | :--- | :--- | :--- | :--- | :--- |
-| **Oct 22, 2026** | **Module 4** | Clinical Prompt Engineering: Visual vs. Diagnostic Text Prompts in CLIP | ![Completed](https://img.shields.io/badge/Completed-16A34A?style=flat-square) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/Sophomore-Scholar-Program/blob/main/2026-2027/Beyond-the-Baseline/notebooks/Module_4_Clinical_Prompt_Engineering.ipynb) |
-| **Oct 28, 2026** | **Module 5** | Domain-Specific Medical VLMs: Benchmarking **PLIP** & **BiomedCLIP** | ![Completed](https://img.shields.io/badge/Completed-16A34A?style=flat-square) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/Sophomore-Scholar-Program/blob/main/2026-2027/Beyond-the-Baseline/notebooks/Module_5_Domain_Specific_Medical_VLMs.ipynb) |
-| **Nov 11, 2026** | **Module 6** | Prompt Ensembling & Few-Shot Adaptation on Histopathology & Dermatoscopy | ![Upcoming](https://img.shields.io/badge/Upcoming-64748B?style=flat-square) | *Link coming soon* |
-| **Nov 25, 2026** | **Module 7** | Explainable Medical AI (XAI): Grad-CAM (ResNet50) & Attention Heatmaps (VLM) | ![Upcoming](https://img.shields.io/badge/Upcoming-64748B?style=flat-square) | *Link coming soon* |
-| **Jan 20, 2027** | **Module 8** | Parameter-Efficient Fine-Tuning (LoRA) for Medical Vision-Language Models | ![Upcoming](https://img.shields.io/badge/Upcoming-64748B?style=flat-square) | *Link coming soon* |
-| **Feb 17, 2027** | **Module 9** | Automated Clinical Report Generation from Cancer Imagery | ![Upcoming](https://img.shields.io/badge/Upcoming-64748B?style=flat-square) | *Link coming soon* |
+| **Oct 22, 2026** | **Module 4** | Clinical Prompt Engineering: Visual vs. Diagnostic Text Prompts in CLIP (0.761 AUC) | ![Completed](https://img.shields.io/badge/Completed-16A34A?style=flat-square) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/Sophomore-Scholar-Program/blob/main/2026-2027/Beyond-the-Baseline/notebooks/Module_4_Clinical_Prompt_Engineering.ipynb) |
+| **Oct 28, 2026** | **Module 5** | Domain-Specific Medical VLMs: Benchmarking **PLIP** vs. **OpenAI CLIP** (0.740 F1) | ![Completed](https://img.shields.io/badge/Completed-16A34A?style=flat-square) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/Sophomore-Scholar-Program/blob/main/2026-2027/Beyond-the-Baseline/notebooks/Module_5_Domain_Specific_Medical_VLMs.ipynb) |
+| **Nov 11, 2026** | **Module 6** | 10-Shot Linear Probing & Hybrid Prompt-Visual Ensembling (0.798 F1, 0.871 AUC) | ![Completed](https://img.shields.io/badge/Completed-16A34A?style=flat-square) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/Sophomore-Scholar-Program/blob/main/2026-2027/Beyond-the-Baseline/notebooks/Module_6_Prompt_Ensembling_and_Few_Shot_Adaptation.ipynb) |
+| **Nov 25, 2026** | **Module 7** | Explainable Medical AI (XAI): Grad-CAM (ResNet50) vs. VLM Patch Heatmaps | ![Completed](https://img.shields.io/badge/Completed-16A34A?style=flat-square) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/Sophomore-Scholar-Program/blob/main/2026-2027/Beyond-the-Baseline/notebooks/Module_7_Explainable_Medical_AI_GradCAM_and_Attention.ipynb) |
+| **Jan 20, 2027** | **Module 8** | Parameter-Efficient Fine-Tuning (LoRA) for Medical VLMs (85.4% Acc, 0.921 AUC) | ![Completed](https://img.shields.io/badge/Completed-16A34A?style=flat-square) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/Sophomore-Scholar-Program/blob/main/2026-2027/Beyond-the-Baseline/notebooks/Module_8_LoRA_Parameter_Efficient_Fine_Tuning.ipynb) |
+| **Feb 17, 2027** | **Module 9** | Automated Multimodal Clinical Pathology Report Generation Powered by PLIP | ![Completed](https://img.shields.io/badge/Completed-16A34A?style=flat-square) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iCARE-Lab/Sophomore-Scholar-Program/blob/main/2026-2027/Beyond-the-Baseline/notebooks/Module_9_Automated_Clinical_Report_Generation.ipynb) |
 
 > [!TIP]
-> **GPU Runtime Recommended:** For running ResNet50 and CLIP/Medical VLM models in Google Colab, go to **Runtime → Change runtime type** and select **T4 GPU**.
+> **GPU Runtime Recommended:** For running ResNet50, CLIP, and PLIP models in Google Colab, go to **Runtime → Change runtime type** and select **T4 GPU** or **A100 GPU**.
